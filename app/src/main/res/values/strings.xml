@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">Foodie</string>
+    <string name="app_name">Food</string>
+
+    <!-- Button and Login Module-->
+    <string name="btnlogin">Login</string>
+    <string name="btnreg">Register</string>
+    <string name="name">name</string>
+    <string name="phone">Contact number</string>
+    <string name="Address">Address</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account_sign_in">Dont have an account sign up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="btnSave">Save</string>
+    <string name="btnLogout">Log Out</string>
+    <string name="signed">Sign Up</string>
+    <string name="btnEdit">Edit Profile</string>
+    <string name="btnHistory">History</string>
+    <string name="appMoto">Foodie</string>
+    <string name="already_have_an_account_login">already_have_an_account_login</string>
+
 </resources>
